@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3lvan2101
-- 👀 I’m interested in c++,phyton
+- 👀 I’m interested in php,css,js
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me elvan.surahmat12@gmail.com
